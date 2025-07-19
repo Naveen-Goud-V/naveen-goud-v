@@ -1,4 +1,4 @@
-# intro
+
 # Hi there, I'm Naveen 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building things with code and learning new technologies.
