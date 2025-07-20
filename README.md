@@ -5,11 +5,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **[Your current project or interest]**
-- 🌱 I’m currently learning: **[Languages or tools you're learning]**
-- 💬 Ask me about: **[Topics you're comfortable talking about]**
-- 📫 How to reach me: **[Your email or social media]**
-- ⚡ Fun fact: **[A quirky or interesting fact about you]**
+- 🔭 I’m currently working on: Full stack developer
+- 🌱 I’m currently learning: java,python,css,html,js
+- 💬 Ask me about: Any projects related
+- 📫 How to reach me:  @naveenchnani872@gmail.com
 
 ## 🛠️ Technologies & Tools
 
