@@ -17,7 +17,6 @@ Currently, I am focusing on software roles by strengthening my knowledge in prog
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-*(Add or remove tools based on what you use)*
 
 ## 📈 GitHub Stats
 
